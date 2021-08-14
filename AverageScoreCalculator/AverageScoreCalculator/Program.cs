@@ -8,10 +8,6 @@ namespace AverageScoreCalculator
         static void Main(string[] args)
         {
 
-            //average score calculator using for loop 
-            //make sure program does not crash when something other than a number is added.
-            //make sure program does not crash when a number not in range is added.
-
             string input = "0";
             int count = 0;
             int total = 0;
